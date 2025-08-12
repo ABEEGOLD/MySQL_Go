@@ -1,0 +1,1 @@
+select * from customer, invoice, invoice item; 
